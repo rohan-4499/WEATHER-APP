@@ -17,11 +17,18 @@ A clean and easy-to-use weather app that shows real-time weather updates for any
 - JavaScript
 - [OpenWeatherMap API](https://openweathermap.org/api)
 
-## 📸 Screenshots
-
-*(Add your project screenshot here if you want)*  
-![Weather App Screenshot](screenshot.png)
-
 ## 📂 How to Use
 
 1. Clone the repo  
+
+
+2. Open the `index.html` file in your browser.
+
+3. Type any city name and get the current weather!
+
+## ✍️ Author
+
+**Rohan T**  
+[LinkedIn](https://www.linkedin.com/in/rohant4499) | 
+
+---
